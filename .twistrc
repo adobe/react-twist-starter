@@ -1,0 +1,8 @@
+{
+    "libraries": [
+        "@twist/react"
+    ],
+    "targets": {
+        "browsers": "last 2 versions"
+    }
+}

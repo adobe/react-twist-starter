@@ -28,3 +28,9 @@ You should make changes to the `./src` directory. The entry point is defined as 
 ## Linting your project
 
 This project comes with `eslint` configured to use `eslint:recommended` and Twist's recommended settings, as described on https://github.com/adobe/eslint-plugin-twist#eslintrc-sample-configuration.
+
+You can run the lint process using:
+
+```bash
+npm run lint
+```

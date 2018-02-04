@@ -1,0 +1,23 @@
+{
+    "parser": "babel-eslint",
+    "plugins": [
+        "babel",
+        "@twist/core"
+    ],
+    "env": {
+        "browser": true,
+        "es6": true,
+        "node": true
+    },
+    "extends": [
+        "eslint:recommended",
+        "plugin:@twist/core/recommended"
+    ],
+    "parserOptions": {
+        "ecmaFeatures": {
+            "experimentalObjectRestSpread": true,
+            "jsx": true
+        },
+        "sourceType": "module"
+    }
+}

@@ -34,3 +34,7 @@ You can run the lint process using:
 ```bash
 npm run lint
 ```
+
+## Contributing
+
+If you would like to contribute to this project, check out our [contribution guidelines](CONTRIBUTING.md)!

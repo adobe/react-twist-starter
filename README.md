@@ -1,5 +1,7 @@
 # react-twist-starter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/adobe/react-twist-starter.svg)](https://greenkeeper.io/)
+
 Simple starter repo for React Twist that contains support for the following:
 
 * CSS and LESS imports
